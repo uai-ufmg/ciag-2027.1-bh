@@ -99,16 +99,12 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 ## 🧠 Projetos 
 
-Um ponto importante do nosso curso é a realização de um projeto final. Começando na Semana 07 (ou
-seja, 24/02/2025) não teremos mais atividades de exercícios e código no horário da tarde. Antes
-disso, já vamos começar a debater os temas. Dada a natureza remota do curso, peço para que procurem
-os professores de BH remotamente (WhatsApp, E-Mail ou Teams).
+Um ponto importante do nosso curso é a realização de um projeto final. A partir da Semana 08 (05/04/2027), não teremos mais atividades de exercícios e código no período da tarde, que será dedicado ao projeto. Antes disso, já começaremos a discutir os temas. Como o curso será remoto, peço que procurem os professores para conversar sobre suas propostas.
 
-- 03/02/2025 até 24/02/2025 - Definição de Temas (Possibilidade de Reuniões Remotas com Profs em BH).
-- 24/02/2024 até 28/02/2025 - Fechar a Organização das Bases
-- 03/03/2025 - Pitches Projetos (Remoto)
-- 04/03/2025 - Pitches Projetos (Remoto)
-- 10/03/2024 até 21/03/2025 - Desenvolvimento dos Projetos
+- **15/03/2027 a 05/04/2027** — Definição dos temas, com possibilidade de reuniões remotas com os professores em BH.
+- **05/04/2027 a 09/04/2027** — Finalização da organização das bases de dados.
+- **12/04/2027 e 13/04/2027** — Apresentações das propostas dos projetos (pitches), em formato remoto.
+- **19/04/2027 a 30/04/2027** — Desenvolvimento dos projetos.
 
 <a name="material"/>
 
