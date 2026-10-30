@@ -31,7 +31,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 ## 📅 Calendário
 
 
-![](https://raw.githubusercontent.com/uai-ufmg/ciag-2025.1-rj/refs/heads/main/CIAG%202025.svg)
+![](https://raw.githubusercontent.com/uai-ufmg/ciag-2027.1-bh/refs/heads/main/CIAG%202027.svg)
 
 # Cronograma de Aulas — 2027
 
